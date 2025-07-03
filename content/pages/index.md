@@ -193,6 +193,7 @@ sections:
       type: ImageBlock
   motion: move-to-left
   colors: bg-light-fg-dark
+  type: ImageGallerySection
   styles:
     self:
       justifyContent: center
